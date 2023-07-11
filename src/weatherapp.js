@@ -28,7 +28,7 @@ const [loadData,setloadData]=useState(true);
     <div className="container">
       
       <div className="row my-5">
-        <div className="col-4 m-auto border text-center mt-4">
+        <div className="col-md-4 m-auto border text-center mt-4">
       <p className="mt-4 display-6 "><b> Weather App</b></p> 
         <input className="form-control inputCity" type="text" placeholder="Enter city name here" aria-label="default input example"/>
        
