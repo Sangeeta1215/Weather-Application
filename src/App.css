@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.Weather
+{
+background-color:#0000ff26;
+}
+body
+{
+background-image:url("https://wallpaperbat.com/img/113573-photo-wallpaper-blue-mountain-minimalism-mountain-vector-hd.jpg");
+background-size: cover;
+}
+.Weather
+{
+min-height:300px;
+}
